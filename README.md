@@ -1,7 +1,7 @@
 # A-phenotype-algorithm-for-SVP-classification-using-electronic-health-records
 
 Instructions:
-This repository contains the implementation of a phenotype algorithm for the classification of Single Ventricle Physiology (SVP) using Electronic Health Records (EHR). The algorithm employs a phenotype algorithm to analyze clinical data and identify patterns related to SVP, providing valuable insights for medical professionals and researchers.
+This repository contains the implementation of a phenotype algorithm for the classification of Single Ventricle Physiology (SVP) using Electronic Health Records (EHR). The algorithm employs a phenotype algorithm to analyze clinical data and identify patterns related to SVP, providing valuable insights for medical professionals and researchers.  We are currently optimizing the script to enhance its usability and performance.
 
 Overview:
 Single Ventricle Physiology (SVP) is a complex congenital heart condition, and accurate classification of patients is crucial for diagnosis and treatment planning. This project aims to develop and validate a phenotype classification algorithm based on EHR data. The dataset used for testing includes patients who underwent ferumoxytol-enhanced MRI scans, with the results tested on additional congenital heart disease (CHD) datasets to ensure robustness.
