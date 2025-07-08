@@ -35,7 +35,8 @@ python main.py --data_dir Data --save_dir Save
 Output Structure...
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the TDG-Attribution-NonCommercial-ShareAlike Academic Software License. See the [LICENSE](LICENSE.md) file for full details.
 
 ## Acknowledgments
 The development of this algorithm was supported by UCLA Cardiovascular Imaging Research Lab https://cvirl.dgsom.ucla.edu/.
