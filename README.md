@@ -40,7 +40,7 @@ Output Structure...
 
 ## License
 
-This project is licensed under the TDG-Attribution-NonCommercial-ShareAlike Academic Software License. See the [LICENSE](LICENSE.md) file for full details.
+This project is licensed under the TDG-Attribution-NonCommercial-ShareAlike Academic Software License. See the [LICENSE](LICENSE) file for full details.
 
 ## Acknowledgments
 The development of this algorithm was supported by UCLA Cardiovascular Imaging Research Lab https://cvirl.dgsom.ucla.edu/.
