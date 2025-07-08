@@ -8,7 +8,9 @@ import pandas as pd
 import os
 import argparse
 from utils.merging_impression_narrative import groupby_impression_narrative
-from utils import impression2features, impression_merging, normalized_lvedv
+from utils.impression2features import impression2features
+from utils.impression_merging import impression_merging
+from utils.normalize_lvedv import normalized_lvedv
 from utils.icd_chart_categorize import filtering, icd_chart
 
 def argParser():
