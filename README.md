@@ -14,14 +14,18 @@ Single Ventricle Physiology (SVP) is a complex congenital heart condition, and a
 
 ## Features:
 Dataset Integration: The method has been applied to a dataset of 1,020 patients and validated on a separate dataset of 2,500 CHD patients.
+
 Cohort discovery: The algorithm categorizes patients with SVP, helping cohort discovery more effectively.
+
 Generalization: The model can be adapted to new CHD datasets, offering flexibility for broader applications.
 
 ## Getting Started
 Prerequisites:
 Ensure you have the following installed:
-Python (>=3.7)
-Libraries: pandas.
+- Python (>=3.7)
+
+Libraries: 
+- pandas.
 
 ## Dataset
 The dataset for this project includes EHR data related to SVP classification. The data includes both structured(ICD codes, imaging) and unstructured information (imaging impressions, imaging narratives and provider notes).
